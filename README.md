@@ -14,6 +14,7 @@
 ## Resource of course: [Youtube](https://youtube.com)
 ## Course Link: [Learn with Sumit Bangladesh](https://www.youtube.com/watch?v=XY96d0vEdFk&list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_&index=1)
 ## Only seven videos
+# PROJECT: [Live Damo](https://coder-rakibul.github.io/Javascript-learning-of-DOM/)
 <br/>
 
 
