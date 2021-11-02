@@ -3,7 +3,7 @@
     Start Document Object Modle
 </h1>
 
-![Image](https://github.com/coder-rakibul/DOM-Tutorial/blob/master/maxresdefault.jpg?raw=true)
+![Image](https://github.com/coder-rakibul/Javascript-learning-of-DOM/blob/master/Images/maxresdefault.jpg?raw=true)
 
 </br>
 
