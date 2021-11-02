@@ -21,14 +21,14 @@
     Content of learning
 </h1>
 
-* __What is DOM__<br/>
+__1. What is DOM__<br/>
 
-* __Analyze the DOM__
-* __Traversing DOM Elements__
-* __Traversing DOM Hierarchy__
-* __Manipulate the DOM__
-* __Listening to DOM Events__
-* __DOM Project - To Do App using DOM__
+__2. Analyze the DOM__<br/><br/>
+__3. Traversing DOM Elements__<br/><br/>
+__4. Traversing DOM Hierarchy__<br/><br/>
+__5. Manipulate the DOM__<br/><br/>
+__6. Listening to DOM Events__<br/><br/>
+__7. DOM Project - To Do App using DOM__<br/>
 
 <br/>
 
